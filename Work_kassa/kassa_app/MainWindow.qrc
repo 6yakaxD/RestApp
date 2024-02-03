@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/UIUX">
+        <file>UIUX/Fonts/bold_straight.ttf</file>
+        <file>UIUX/Fonts/not_bold.ttf</file>
+        <file>UIUX/Fonts/semi-bold_rezkiy.ttf</file>
+        <file>UIUX/Pictures/settings.png</file>
+        <file>UIUX/Pictures/food-app.png</file>
+        <file>UIUX/Pictures/exit_button.png</file>
+        <file>UIUX/Fonts/MenuObjects-SemiBoldItalic.ttf</file>
+        <file>UIUX/Pictures/a.png</file>
+        <file>UIUX/Pictures/b.png</file>
+        <file>UIUX/Pictures/c.png</file>
+        <file>UIUX/Pictures/d.png</file>
+        <file>UIUX/Pictures/e.png</file>
+        <file>UIUX/Pictures/back.png</file>
+        <file>UIUX/Pictures/no_connection.png</file>
+        <file>UIUX/Pictures/not_correct_password.png</file>
+        <file>UIUX/Pictures/card.png</file>
+        <file>UIUX/Pictures/cash.png</file>
+    </qresource>
+</RCC>
